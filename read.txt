@@ -1,2 +1,3 @@
 打包指令
 pyinstaller --noconsole --name whateat main.py
+pyinstaller版本 6.2.0
