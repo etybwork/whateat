@@ -1,2 +1,2 @@
-# whateat
+打包指令
 pyinstaller --noconsole --name whateat main.py
